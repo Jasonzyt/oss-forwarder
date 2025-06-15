@@ -1,3 +1,3 @@
 module github.com/jasonzyt/oss-forwarder
 
-go 1.21.1
+go 1.23.1
